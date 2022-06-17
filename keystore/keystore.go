@@ -29,7 +29,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/NftTeam/bridge-utils/crypto"
+	"github.com/NftTeamHackaton/bridge-utils/crypto"
 )
 
 const EnvPassword = "KEYSTORE_PASSWORD"

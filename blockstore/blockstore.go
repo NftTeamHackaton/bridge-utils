@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/NftTeam/bridge-utils/msg"
+	"github.com/NftTeamHackaton/bridge-utils/msg"
 )
 
 const PathPostfix = ".chainbridge/blockstore"

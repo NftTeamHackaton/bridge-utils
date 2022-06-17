@@ -10,9 +10,9 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/NftTeam/bridge-utils/crypto"
-	"github.com/NftTeam/bridge-utils/crypto/secp256k1"
-	"github.com/NftTeam/bridge-utils/crypto/sr25519"
+	"github.com/NftTeamHackaton/bridge-utils/crypto"
+	"github.com/NftTeamHackaton/bridge-utils/crypto/secp256k1"
+	"github.com/NftTeamHackaton/bridge-utils/crypto/sr25519"
 )
 
 // Decrypt uses AES to decrypt ciphertext with the symmetric key deterministically created from `password`

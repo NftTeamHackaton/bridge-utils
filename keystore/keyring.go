@@ -6,9 +6,9 @@ package keystore
 import (
 	"fmt"
 
-	"github.com/NftTeam/bridge-utils/crypto"
-	"github.com/NftTeam/bridge-utils/crypto/secp256k1"
-	"github.com/NftTeam/bridge-utils/crypto/sr25519"
+	"github.com/NftTeamHackaton/bridge-utils/crypto"
+	"github.com/NftTeamHackaton/bridge-utils/crypto/secp256k1"
+	"github.com/NftTeamHackaton/bridge-utils/crypto/sr25519"
 	"github.com/centrifuge/go-substrate-rpc-client/signature"
 )
 

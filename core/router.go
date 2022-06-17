@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	log "github.com/ChainSafe/log15"
-	"github.com/NftTeam/bridge-utils/msg"
+	"github.com/NftTeamHackaton/bridge-utils/msg"
 )
 
 // Writer consumes a message and makes the requried on-chain interactions.

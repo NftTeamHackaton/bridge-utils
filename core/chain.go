@@ -4,8 +4,8 @@
 package core
 
 import (
-	metrics "github.com/NftTeam/bridge-utils/metrics/types"
-	"github.com/NftTeam/bridge-utils/msg"
+	metrics "github.com/NftTeamHackaton/bridge-utils/metrics/types"
+	"github.com/NftTeamHackaton/bridge-utils/msg"
 )
 
 type Chain interface {

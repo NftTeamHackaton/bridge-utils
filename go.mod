@@ -1,4 +1,4 @@
-module github.com/NftTeam/bridge-utils
+module github.com/NftTeamHackaton/bridge-utils
 
 go 1.15
 

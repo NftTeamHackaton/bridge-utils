@@ -12,8 +12,8 @@ import (
 	"time"
 
 	log "github.com/ChainSafe/log15"
-	"github.com/NftTeam/bridge-utils/core"
-	"github.com/NftTeam/bridge-utils/msg"
+	"github.com/NftTeamHackaton/bridge-utils/core"
+	"github.com/NftTeamHackaton/bridge-utils/msg"
 )
 
 type httpMetricServer struct {
